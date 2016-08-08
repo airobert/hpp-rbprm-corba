@@ -1,0 +1,9 @@
+Dear Robert,
+the easiest way is to simply unzip the attached
+filed in the folder:
+
+$DEVEL_DIR/install/share/
+
+The documentation is wrong on this point, I need to update it
+because the package has been modified by folks from it.
+
